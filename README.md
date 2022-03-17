@@ -1,7 +1,7 @@
 # Welcome to Email Spam Predictor
 
-This system is made by Ensemble Modeling(Voting Classifier) with accuracy of 0.9787234042553191
-and  precision 1.0 where Support Vector Classification ,BernoulliNB,ExtraTreesClassifier',LogisticRegression 
+This system is made by Ensemble Modeling(Voting Classifier) with accuracy of 0.9816247582205029
+and  precision 0.983739837398374 where Support Vector Classification ,BernoulliNB,ExtraTreesClassifier',LogisticRegression 
 are used with hard voting. Here i have used dataset [spam.csv](https://www.kaggle.com/uciml/sms-spam-collection-dataset) for training model.
 
 ## Setup
@@ -26,4 +26,4 @@ are used with hard voting. Here i have used dataset [spam.csv](https://www.kaggl
 
 Click [here ](https://emailspampredictor.herokuapp.com/) to see demo
 
-<img src="https://github.com/rabisubedichettri/email_spam_predictor/blob/main/demo.JPG" alt="demo" style="height: 500px; width:500px;"/>
+<img src="https://github.com/rabisubedichettri/email_spam_predictor/blob/main/demo.jpg" alt="demo" style="height: 500px; width:500px;"/>
